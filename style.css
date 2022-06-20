@@ -53,11 +53,11 @@ input {
 }
 
 input:valid {
-  border: 1px solid #16711f;
+  border: 1px solid #00ff1a;
 }
 
 input:invalid {
-  border: 1px solid #751c1c;
+  border: 1px solid #ff0000;
 }
 
 button {
